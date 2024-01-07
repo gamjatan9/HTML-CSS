@@ -1,0 +1,20 @@
+.footer {
+    margin-top: 400px;
+    color: #808080;
+    font-size: 18px;
+}
+
+.select-language{
+    margin-top: 70px;
+    background: transparent;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    padding: 15px;
+    color: #808080;
+    font-size: 18px;
+}
+
+.company {
+    padding: 70px 0 50px 0;
+    line-height: 30px;
+}
